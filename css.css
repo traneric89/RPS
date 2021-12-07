@@ -1,0 +1,26 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: red;
+  width: 750px;
+  height: 400px;
+  margin: auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+}
+
+.gameScreen {
+  text-align: center;
+  font-size: 20px;
+}
+
+button {
+  font-size: 20px;
+}
